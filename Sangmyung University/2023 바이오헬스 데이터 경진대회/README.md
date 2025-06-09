@@ -4,8 +4,8 @@
 ---
 
 ## 🏆 수상 이력
-> 🥉 **장려상 수상**
-> 팀명 : CopyAndToothpaste
+🥉 **장려상 수상**
+팀명 : CopyAndToothpaste
 
 ### 코드 구조
 

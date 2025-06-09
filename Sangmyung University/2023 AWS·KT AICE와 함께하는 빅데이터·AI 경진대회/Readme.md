@@ -25,12 +25,12 @@ CCTV 영상을 기반으로 정상 차량의 주행 패턴을 학습하고, 이�
 
 ## 🗂 Project Structure
 
-| 구성 요소 | 설명 |
-|-----------|------|
-| `src/` | 주요 코드: 차선 감지, 차량 인식, Optical Flow 분석 등 |
-| `models/` | YOLOv3 모델 파일 및 클래스명 정의 |
-| `results/` | 결과 영상, 시각화 이미지 |
-| `docs/` | 중간발표, 기획 문서 PDF 또는 md |
+| 파일명 | 설명 |
+|--------|------|
+| `lane_detection.py` | 영상에서 흰색 차선을 인식하여 윤곽선을 시각화합니다. (OpenCV 기반) |
+| `car_detection_yolo.py` | YOLOv3를 활용하여 차량을 검출하고 클래스 라벨과 함께 표시합니다. |
+| `combined_lane_car_detection.py` | 차선 인식과 차량 인식을 동시에 수행하여 통합적인 도로 인식 환경을 구성합니다. |
+| `abnormal_behavior_detection.py` | Optical Flow 기반으로 차량 이동 방향, 거리, 각도를 분석하여 이상 행동을 판단합니다. 이상각도에 대해 경고 시각화도 함께 수행됩니다. |
 
 ---
 

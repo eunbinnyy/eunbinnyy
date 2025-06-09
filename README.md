@@ -1,34 +1,42 @@
-## Hi there 👋
 # 🧠 AI Projects & Competitions Archive
 
-Welcome! This repository contains a curated collection of my AI projects and competition solutions. Each folder contains code, models, and notes associated with various machine learning challenges and applied research.
+Welcome! This repository contains a curated collection of my AI competition entries and personal projects. It showcases various deep learning and machine learning applications I've worked on.
 
 ---
 
-## 📂 Repository Structure
+## 🏆 Competitions
 
-```bash
-.
-├── competition_name_1/
-│   ├── README.md        # Description and approach
-│   └── src/             # Source code
-├── project_name_1/
-│   ├── README.md        # Project summary and usage
-│   └── models/          # Saved models or checkpoints
-└── ...
+| Competition                         | Platform | Rank / Outcome | Key Topics                      |
+|-------------------------------------|----------|----------------|---------------------------------|
+| Dacon: AI for Skin Disease          | Dacon    | Top 5%         | CNN, Image Classification       |
+| Kaggle: Titanic Survival            | Kaggle   | Completed      | EDA, XGBoost, Feature Engineering |
 
+---
 
-<!--
-**eunbinnyy/eunbinnyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
 
-Here are some ideas to get you started:
+- **Languages & Frameworks**  
+  `Python`, `PyTorch`, `TensorFlow`, `OpenCV`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Development Tools**  
+  `Jupyter Notebook`, `Docker`, `Git`
+
+- **Data Science Libraries**  
+  `Pandas`, `NumPy`, `scikit-learn`
+
+- **3D & VR**  
+  `Unity`, `Blender`, `VR APIs`
+
+---
+
+## 📬 Contact
+
+If you have any questions or would like to collaborate, feel free to reach out!
+
+- 📧 Email: your.email@example.com  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+
+---
+
+⭐️ *If you found this repository helpful or interesting, please consider giving it a star!*

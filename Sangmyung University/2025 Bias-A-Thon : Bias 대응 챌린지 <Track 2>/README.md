@@ -36,7 +36,7 @@ Llama-3.1-8B-Instruct 모델을 기반으로, **편향 상황에서 공정하고
 
 ```bash
 .
-├── inference_bias.py          # 전체 추론 파이프라인 (본 코드)
+├── light_baseline_sub.py          # 전체 파이프라인 (본 코드)
 ├── data/
 │   └── test.csv               # 입력 CSV 파일
 ├── baseline/

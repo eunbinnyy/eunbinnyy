@@ -1,5 +1,23 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+# 🧠 AI Projects & Competitions Archive
+
+Welcome! This repository contains a curated collection of my AI projects and competition solutions. Each folder contains code, models, and notes associated with various machine learning challenges and applied research.
+
+---
+
+## 📂 Repository Structure
+
+```bash
+.
+├── competition_name_1/
+│   ├── README.md        # Description and approach
+│   └── src/             # Source code
+├── project_name_1/
+│   ├── README.md        # Project summary and usage
+│   └── models/          # Saved models or checkpoints
+└── ...
+
+
 <!--
 **eunbinnyy/eunbinnyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

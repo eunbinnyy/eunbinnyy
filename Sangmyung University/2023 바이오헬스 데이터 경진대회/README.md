@@ -6,6 +6,8 @@
 ## 🏆 수상 이력
 🥉 **장려상 수상**
 팀명 : CopyAndToothpaste
+![Uploading image.png…]()
+
 
 ### 코드 구조
 

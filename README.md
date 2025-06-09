@@ -8,7 +8,7 @@ Welcome! This repository contains a curated collection of my AI competition entr
 
 | Competition                         | Platform | Rank / Outcome | Key Topics                      |
 |-------------------------------------|------------|----------------|---------------------------------|
-| 2023 AWS·KT AICE와 함께하는 빅데이터·AI 경진대회 | University | Top 3          | CNN, Image Classification       |
+| 2023 AWS·KT AICE와 함께하는 빅데이터·AI 경진대회| University | Top 3 | CNN, Image Classification       |
 | Kaggle: Titanic Survival            | Kaggle     | Completed      | EDA, XGBoost, Feature Engineering |
 
 ---

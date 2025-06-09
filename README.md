@@ -33,9 +33,7 @@ Welcome! This repository contains a curated collection of my AI competition entr
 
 If you have any questions or would like to collaborate, feel free to reach out!
 
-- 📧 Email: your.email@example.com  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourname)
+- 📧 Email: star4168114@gmail.com
 
 ---
 

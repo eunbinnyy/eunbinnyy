@@ -46,8 +46,7 @@ CCTV 영상을 기반으로 정상 차량의 주행 패턴을 학습하고, 이�
 
 | 차선/차량 인식 | Optical Flow 기반 이상 탐지 |
 |----------------|-----------------------------|
-|![image](https://github.com/user-attachments/assets/892cc65a-f061-4244-bbb7-c87a69fc4d41)
- |
+|![image](https://github.com/user-attachments/assets/892cc65a-f061-4244-bbb7-c87a69fc4d41) | ![image](https://github.com/user-attachments/assets/25b5ad13-8708-41a8-95fb-88aad2846c43) |
 
 > 전체 시연 영상은 `results/` 폴더 참고
 

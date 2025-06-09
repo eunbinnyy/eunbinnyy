@@ -5,8 +5,9 @@
 
 ## 🏆 수상 이력
 🥉 **장려상 수상**
-팀명 : CopyAndToothpaste
-![Uploading image.png…]()
+팀명 : CopyAndToothpaste |
+![image](https://github.com/user-attachments/assets/405e3e2c-41a3-459f-9d90-b17fa97aea43)
+
 
 
 ### 코드 구조

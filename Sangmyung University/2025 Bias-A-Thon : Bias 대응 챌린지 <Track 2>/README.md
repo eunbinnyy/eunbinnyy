@@ -70,7 +70,7 @@ python inference_bias.py \
 
 ```python
 input_path = "./baseline/submission.csv"
-output_path = "./sub/submission_batch4_7me_eun_sam_f.csv"
+output_path = "./sub/submission.csv"
 
 df = pd.read_csv(input_path)
 df.to_csv(output_path, index=False, encoding="utf-8-sig")

@@ -1,2 +1,0 @@
-# CODDEG
-Neural Engineering

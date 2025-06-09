@@ -61,14 +61,3 @@
 
 ---
 
-## 🚀 실행 방법
-
-```bash
-# 1. 환경 설치
-pip install -r requirements.txt
-
-# 2. 학습 실행
-python train.py
-
-# 3. 예측 실행
-python inference.py

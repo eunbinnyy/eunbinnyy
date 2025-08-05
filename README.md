@@ -10,6 +10,7 @@ Welcome! This repository contains a curated collection of my AI competition entr
 |-------------------------------------|------------|----------------|---------------------------------|
 | 2023 AWS·KT AICE와 함께하는 빅데이터·AI 경진대회| University | Top 3 | CNN, Image Classification       |
 | 2023 바이오헬스 데이터 경진대회 - 치의학 분야 (바이오헬스 혁신융합대학 7개 대학 재학생 부문)  | University(7) |  장려상 | AdamW, Densenet121 |
+| 2024 제1회 한국천문연구원-카이스트 천문우주 AI 경진대회 | KAIST| 1위(태양상) | YOLO, Augmentation, Classification, CNN |
 
 ---
 

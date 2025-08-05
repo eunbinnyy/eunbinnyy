@@ -76,36 +76,33 @@
 ## 🗃️ 프로젝트 파일 구조
 project
 ├── data
+
 │   ├── train.csv
+
 │   ├── test.csv
+
 │   └── sample_submission.csv
+
 ├── chemprop_model
+
 │   └── best.pt
+
 ├── chemprop_train.csv
+
 ├── chemprop_test.csv
+
 ├── chemprop_preds.csv
+
 ├── sub
-│   └── lgbm_08_ensemble_submission.csv
-├── notebooks
-│   └── EDA.ipynb (옵션)
+
+│   └── submission.csv
+
 └── src
-├── train.py
-└── inference.py
+
+└── base_optuna.py
 
 ---
 
-## 모델 학습 (LightGBM)
-python src/train.py
-
-## ChemProp 모델 학습 및 예측
-# ChemProp 학습
-python -m chemprop.cli.train --data_path chemprop_train.csv --dataset_type regression \
-                             --save_dir chemprop_model --target_columns target --epochs 50 \
-                             --hidden_size 500 --depth 5 --dropout 0.3 --ensemble_size 3 \
-                             --accelerator gpu --devices 1
-
-# ChemProp 예측
-python -m chemprop.cli.predict --test_path chemprop_test.csv \
-                               --model_paths chemprop_model/model_0/best.pt \
-                               --preds_path chemprop_preds.csv
+## 모델 학습
+python base_optuna.py
 

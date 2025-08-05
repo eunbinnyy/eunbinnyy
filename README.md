@@ -9,7 +9,7 @@ Welcome! This repository contains a curated collection of my AI competition entr
 | Competition                         | Platform | Rank / Outcome | Key Topics                      |
 |-------------------------------------|------------|----------------|---------------------------------|
 | 2023 AWS·KT AICE와 함께하는 빅데이터·AI 경진대회| University | Top 3 | CNN, Image Classification       |
-| 2023 바이오헬스 데이터 경진대회 - 치의학 분야 (바이오헬스 혁신융합대학 7개 대학 재학생 부문)  | University(7) |  장려상 | EDA, XGBoost, Feature Engineering |
+| 2023 바이오헬스 데이터 경진대회 - 치의학 분야 (바이오헬스 혁신융합대학 7개 대학 재학생 부문)  | University(7) |  장려상 | AdamW, Densenet121 |
 
 ---
 

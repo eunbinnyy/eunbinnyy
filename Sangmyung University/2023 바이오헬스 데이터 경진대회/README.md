@@ -27,10 +27,12 @@ $USER/RESULT
 ```
 
 ├── TRAIN : 학습에 필요한 TL_AdamW.py, FT_RMSprop.py 파일을 담은 폴더
+
     ├── TL_AdamW.py :
 				**AdamW optimizer를 이용해 Transfer learning을 진행(공식문서참고 및 실험적으로 파라미터 결정)**
 				1. classification layer에 이진분류 결과를 도출하도록 layer를 추가
 				2. 150 epoch 중 f1-score가 가장 높을 때의 pth 저장
+	
     └── FT_RMSprop.py :
 				**TL_AdamW.py에서 얻은 pth와 RMSprop optimizer를 이용해 미세조정**
 				1. densenet121의 모든 파라미터 동결(freeze) 후 classification layer만 동결해제
@@ -44,7 +46,9 @@ $USER/RESULT
 			2. 예측 결과 0/1을 low/high로 바꾸어 csv 형태로 저장(fin_tuned_model_AdamWRMSdragon2.csv)
 
 ├── FT_RMSdragon.pth : 최종적으로 학습된 모델
+
 ├── BEST_TL_AdamWdragon.pth : 최적 성능일때 저장된 모델
+
 └── fin_tuned_model_AdamWRMSdragon2.csv : 추론을 돌린 결과
 
 ---

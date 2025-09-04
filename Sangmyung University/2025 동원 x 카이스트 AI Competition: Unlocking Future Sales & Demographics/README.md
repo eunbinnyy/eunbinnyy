@@ -69,6 +69,7 @@ sample_submission.csv # [product_name, months_since_launch_1..12]
 
 ## 🏗️ 리포지토리 구조
 .
+
 ├─ main.py                          # 메인 파이프라인 
 
 ├─ prompts.py                       # build_persona_prompt_numeric / (labels variant 포함)

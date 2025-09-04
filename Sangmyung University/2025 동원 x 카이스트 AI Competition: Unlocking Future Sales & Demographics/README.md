@@ -70,13 +70,21 @@ sample_submission.csv # [product_name, months_since_launch_1..12]
 ## 🏗️ 리포지토리 구조
 .
 ├─ main.py                          # 메인 파이프라인 
+
 ├─ prompts.py                       # build_persona_prompt_numeric / (labels variant 포함)
+
 ├─ llm_utils.py                     # OpenAI 호출 재시도/프리플라이트/JSON repair
+
 ├─ anchors.py                       # anchor_for: 카테고리/제품 기반 총량 앵커
+
 ├─ feature_signals.py               # 곡선/램프/시즌성 신호 추출
+
 ├─ product_info.csv                 # 대회 제공
+
 ├─ sample_submission.csv            # 대회 제공(스키마/순서 참조)
+
 ├─ artifacts/                       # LLM 응답(jsonl), 호출 리포트(csv)
+
 └─ submissions_v7/                  # 제출 파일(.csv) 저장 위치
 
 ✅ 본 README는 아래 파일 버전 기준으로 작성되었습니다:

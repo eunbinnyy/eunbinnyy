@@ -18,16 +18,22 @@ Welcome! This repository contains a curated collection of my AI competition entr
 ## 🛠 Tech Stack
 
 - **Languages & Frameworks**  
-  `Python`, `PyTorch`, `TensorFlow`, `OpenCV`
+  `Python`, `PyTorch`, `TensorFlow`, `Keras`, `C/C++`, `Java/Kotlin (Android)`, `JavaScript/TypeScript (React, Node.js)`, `R`
 
 - **Development Tools**  
-  `Jupyter Notebook`, `Docker`, `Git`
+  `Jupyter Notebook`, `Google Colab`, `Docker`, `NVIDIA Container Toolkit`, `Anaconda/Miniconda`, `Git/GitHub`, `VSCode`, `PyCharm`, `Android Studio`, `GCP (VM, GPU)`, `Kaggle`
 
-- **Data Science Libraries**  
-  `Pandas`, `NumPy`, `scikit-learn`
+- **Data Science & ML Libraries**  
+  `Pandas`, `NumPy`, `scikit-learn`, `SciPy`, `Optuna`, `Matplotlib`, `Plotly`, `Seaborn`, `RDKit`, `ChemProp`, `PyCaret`, `TorchMetrics`
 
 - **3D & VR**  
-  `Unity`, `Blender`, `VR APIs`
+  `Open3D`, `PyTorch3D`, `3D Gaussian Splatting`
+
+- **Computer Vision & Signal Processing**  
+  `OpenCV`, `MediaPipe (3D Pose Landmark)`, `YOLOv8`, `rPPG/PPG HRV Analysis (RMSSD, SDNN, LF/HF)`, `OCR`
+
+- **Generative AI & Multimodal**  
+  `Hugging Face Transformers (BLIP, InstructBLIP, CLIP, LLaMA)`, `Diffusers (Text-to-3D/VR)`, `Prompt Engineering`, `LLM-based Simulation`
 
 ---
 

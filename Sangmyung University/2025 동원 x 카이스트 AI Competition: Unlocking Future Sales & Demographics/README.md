@@ -86,7 +86,7 @@ sample_submission.csv # [product_name, months_since_launch_1..12]
 
 ├─ artifacts/                       # LLM 응답(jsonl), 호출 리포트(csv)
 
-└─ submissions_v7/                  # 제출 파일(.csv) 저장 위치
+└─ submissions_v7/                  # 제출 파일(.csv) 
 
 ✅ 본 README는 아래 파일 버전 기준으로 작성되었습니다:
 prompts.build_persona_prompt_numeric,
